@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pytesseract
-pillow
-opencv-python-headless
-requests
-numpy
-python-dotenv
